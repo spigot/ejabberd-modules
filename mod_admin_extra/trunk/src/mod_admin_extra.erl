@@ -1291,32 +1291,39 @@ srg_create(Group, Host, Name, Description, Display) ->
     Opts = [{name, Name},
 	    {displayed_groups, DisplayList},
 	    {description, Description}],
-    {atomic, ok} = mod_shared_roster:create_group(Host, Group, Opts),
+    {ok, M} = loaded_module(Host,[mod_shared_roster_odbc,mod_shared_roster]),
+    {atomic, ok} = M:create_group(Host, Group, Opts),
     ok.
 
 srg_delete(Group, Host) ->
-    {atomic, ok} = mod_shared_roster:delete_group(Host, Group),
+    {ok, M} = loaded_module(Host,[mod_shared_roster_odbc,mod_shared_roster]),
+    {atomic, ok} = M:delete_group(Host, Group),
     ok.
 
 srg_list(Host) ->
-    lists:sort(mod_shared_roster:list_groups(Host)).
+    {ok, M} = loaded_module(Host,[mod_shared_roster_odbc,mod_shared_roster]),
+    lists:sort(M:list_groups(Host)).
 
 srg_get_info(Group, Host) ->
-    Opts = mod_shared_roster:get_group_opts(Host,Group),
+    {ok, M} = loaded_module(Host,[mod_shared_roster_odbc,mod_shared_roster]),
+    Opts = M:get_group_opts(Host,Group),
     [{io_lib:format("~p", [Title]),
       io_lib:format("~p", [Value])} || {Title, Value} <- Opts].
 
 srg_get_members(Group, Host) ->
-    Members = mod_shared_roster:get_group_explicit_users(Host,Group),
+    {ok, M} = loaded_module(Host,[mod_shared_roster_odbc,mod_shared_roster]),
+    Members = M:get_group_explicit_users(Host,Group),
     [jlib:jid_to_string(jlib:make_jid(MUser, MServer, ""))
      || {MUser, MServer} <- Members].
 
 srg_user_add(User, Host, Group, GroupHost) ->
-    {atomic, ok} = mod_shared_roster:add_user_to_group(GroupHost, {User, Host}, Group),
+    {ok, M} = loaded_module(Host,[mod_shared_roster_odbc,mod_shared_roster]),
+    {atomic, ok} = M:add_user_to_group(GroupHost, {User, Host}, Group),
     ok.
 
 srg_user_del(User, Host, Group, GroupHost) ->
-    {atomic, ok} = mod_shared_roster:remove_user_from_group(GroupHost, {User, Host}, Group),
+    {ok, M} = loaded_module(Host,[mod_shared_roster_odbc,mod_shared_roster]),
+    {atomic, ok} = M:remove_user_from_group(GroupHost, {User, Host}, Group),
     ok.
 
 
