@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ejabberd-modules/!svn/ver/412/ircd/branches/1.1.3/src
+END
+ejabberd_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/412/ircd/branches/1.1.3/src/ejabberd_sup.erl
+END
+ejabberd_ircd.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/412/ircd/branches/1.1.3/src/ejabberd_ircd.erl
+END

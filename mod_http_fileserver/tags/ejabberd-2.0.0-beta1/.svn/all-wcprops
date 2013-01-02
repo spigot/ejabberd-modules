@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ejabberd-modules/!svn/ver/747/mod_http_fileserver/tags/ejabberd-2.0.0-beta1
+END
+Emakefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ejabberd-modules/!svn/ver/747/mod_http_fileserver/tags/ejabberd-2.0.0-beta1/Emakefile
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ejabberd-modules/!svn/ver/455/mod_http_fileserver/tags/ejabberd-2.0.0-beta1/build.bat
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ejabberd-modules/!svn/ver/457/mod_http_fileserver/tags/ejabberd-2.0.0-beta1/ChangeLog
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ejabberd-modules/!svn/ver/455/mod_http_fileserver/tags/ejabberd-2.0.0-beta1/build.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ejabberd-modules/!svn/ver/457/mod_http_fileserver/tags/ejabberd-2.0.0-beta1/README.txt
+END

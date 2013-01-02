@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ejabberd-modules/!svn/ver/1111/mod_irc/trunk
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ejabberd-modules/!svn/ver/830/mod_irc/trunk/build.bat
+END
+oldbuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/830/mod_irc/trunk/oldbuild.sh
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/842/mod_irc/trunk/build.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ejabberd-modules/!svn/ver/984/mod_irc/trunk/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/978/mod_irc/trunk/Makefile
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/984/mod_irc/trunk/LICENSE.txt
+END
+Emakefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ejabberd-modules/!svn/ver/830/mod_irc/trunk/Emakefile
+END

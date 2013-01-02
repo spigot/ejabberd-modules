@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/ejabberd-modules/!svn/ver/543/bfile/config
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ejabberd-modules/!svn/ver/543/bfile/config/acconfig.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ejabberd-modules/!svn/ver/543/bfile/config/config.h.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/543/bfile/config/configure.in
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/543/bfile/config/config.guess
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ejabberd-modules/!svn/ver/543/bfile/config/Makefile
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ejabberd-modules/!svn/ver/543/bfile/config/aclocal.m4
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ejabberd-modules/!svn/ver/543/bfile/config/config.sub
+END
+include.mk.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ejabberd-modules/!svn/ver/543/bfile/config/include.mk.in
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ejabberd-modules/!svn/ver/543/bfile/config/install-sh
+END

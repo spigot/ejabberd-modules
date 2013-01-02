@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ejabberd-modules/!svn/ver/1104/mod_register_web/trunk/src/msgs
+END
+ru.mod_register_web.msg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ejabberd-modules/!svn/ver/1104/mod_register_web/trunk/src/msgs/ru.mod_register_web.msg
+END
+es.mod_register_web.msg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ejabberd-modules/!svn/ver/946/mod_register_web/trunk/src/msgs/es.mod_register_web.msg
+END
+uk.mod_register_web.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ejabberd-modules/!svn/ver/1103/mod_register_web/trunk/src/msgs/uk.mod_register_web.po
+END
+mod_register_web.pot
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ejabberd-modules/!svn/ver/946/mod_register_web/trunk/src/msgs/mod_register_web.pot
+END
+ru.mod_register_web.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ejabberd-modules/!svn/ver/1103/mod_register_web/trunk/src/msgs/ru.mod_register_web.po
+END
+es.mod_register_web.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ejabberd-modules/!svn/ver/946/mod_register_web/trunk/src/msgs/es.mod_register_web.po
+END
+uk.mod_register_web.msg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ejabberd-modules/!svn/ver/1104/mod_register_web/trunk/src/msgs/uk.mod_register_web.msg
+END

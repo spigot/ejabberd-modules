@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ejabberd-modules/!svn/ver/1126/ejabberd-dev/trunk/include
+END
+ejabberd_ctl.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ejabberd-modules/!svn/ver/1126/ejabberd-dev/trunk/include/ejabberd_ctl.hrl
+END
+jlib.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ejabberd-modules/!svn/ver/1126/ejabberd-dev/trunk/include/jlib.hrl
+END
+ejabberd_config.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ejabberd-modules/!svn/ver/1126/ejabberd-dev/trunk/include/ejabberd_config.hrl
+END
+mod_roster.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ejabberd-modules/!svn/ver/1126/ejabberd-dev/trunk/include/mod_roster.hrl
+END
+adhoc.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ejabberd-modules/!svn/ver/1126/ejabberd-dev/trunk/include/adhoc.hrl
+END
+ejabberd.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/1126/ejabberd-dev/trunk/include/ejabberd.hrl
+END
+ejabberd_commands.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ejabberd-modules/!svn/ver/1126/ejabberd-dev/trunk/include/ejabberd_commands.hrl
+END

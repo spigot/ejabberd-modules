@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/ejabberd-modules/!svn/ver/952/epeios/trunk/lib
+END
+gen_mod.beam
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/gen_mod.beam
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ejabberd-modules/!svn/ver/34/epeios/trunk/lib/README.txt
+END
+sha.beam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/sha.beam
+END
+xml_stream.beam
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/xml_stream.beam
+END
+ejabberd_odbc_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/ejabberd_odbc_sup.beam
+END
+iconv.beam
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/iconv.beam
+END
+jlib.beam
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/jlib.beam
+END
+ejabberd_odbc.beam
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/ejabberd_odbc.beam
+END
+ejabberd_loglevel.beam
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/ejabberd_loglevel.beam
+END
+ram_file_io_server.beam
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/ram_file_io_server.beam
+END
+ejabberd_http.beam
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/ejabberd_http.beam
+END
+stringprep.beam
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/stringprep.beam
+END
+translate.beam
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/translate.beam
+END
+acl.beam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/acl.beam
+END
+xml.beam
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/xml.beam
+END
+randoms.beam
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/randoms.beam
+END
+builder.erl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ejabberd-modules/!svn/ver/952/epeios/trunk/lib/builder.erl
+END
+ejabberd_logger_h.beam
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/ejabberd_logger_h.beam
+END
+ejabberd_tmp_sup.beam
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ejabberd-modules/!svn/ver/875/epeios/trunk/lib/ejabberd_tmp_sup.beam
+END

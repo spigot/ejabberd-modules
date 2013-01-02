@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/ejabberd-modules/!svn/ver/1130/pgsql/trunk
+END
+Emakefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/1130/pgsql/trunk/Emakefile
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ejabberd-modules/!svn/ver/845/pgsql/trunk/build.bat
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ejabberd-modules/!svn/ver/845/pgsql/trunk/INSTALL
+END
+EPLICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ejabberd-modules/!svn/ver/87/pgsql/trunk/EPLICENSE
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ejabberd-modules/!svn/ver/845/pgsql/trunk/build.sh
+END

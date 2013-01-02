@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ejabberd-modules/!svn/ver/412/ircd/branches/1.1.3
+END
+Emakefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ejabberd-modules/!svn/ver/221/ircd/branches/1.1.3/Emakefile
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ejabberd-modules/!svn/ver/205/ircd/branches/1.1.3/build.bat
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ejabberd-modules/!svn/ver/222/ircd/branches/1.1.3/build.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ejabberd-modules/!svn/ver/205/ircd/branches/1.1.3/README.txt
+END

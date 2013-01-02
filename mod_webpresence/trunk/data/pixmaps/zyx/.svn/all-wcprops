@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ejabberd-modules/!svn/ver/315/mod_webpresence/trunk/data/pixmaps/zyx
+END
+available.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ejabberd-modules/!svn/ver/315/mod_webpresence/trunk/data/pixmaps/zyx/available.png
+END
+away.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ejabberd-modules/!svn/ver/315/mod_webpresence/trunk/data/pixmaps/zyx/away.png
+END
+unavailable.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ejabberd-modules/!svn/ver/315/mod_webpresence/trunk/data/pixmaps/zyx/unavailable.png
+END
+dnd.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ejabberd-modules/!svn/ver/315/mod_webpresence/trunk/data/pixmaps/zyx/dnd.png
+END
+xa.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ejabberd-modules/!svn/ver/315/mod_webpresence/trunk/data/pixmaps/zyx/xa.png
+END
+chat.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ejabberd-modules/!svn/ver/315/mod_webpresence/trunk/data/pixmaps/zyx/chat.png
+END

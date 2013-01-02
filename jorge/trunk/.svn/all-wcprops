@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/ejabberd-modules/!svn/ver/1056/jorge/trunk
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ejabberd-modules/!svn/ver/910/jorge/trunk/settings.php
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ejabberd-modules/!svn/ver/806/jorge/trunk/style.css
+END
+favorites.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/919/jorge/trunk/favorites.php
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ejabberd-modules/!svn/ver/587/jorge/trunk/favicon.ico
+END
+not_enabled.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ejabberd-modules/!svn/ver/974/jorge/trunk/not_enabled.php
+END
+search_v2.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/908/jorge/trunk/search_v2.php
+END
+config.php.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ejabberd-modules/!svn/ver/1014/jorge/trunk/config.php.inc
+END
+contacts.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ejabberd-modules/!svn/ver/919/jorge/trunk/contacts.php
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ejabberd-modules/!svn/ver/587/jorge/trunk/COPYING
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ejabberd-modules/!svn/ver/907/jorge/trunk/main.php
+END
+my_links.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ejabberd-modules/!svn/ver/919/jorge/trunk/my_links.php
+END
+class.ejabberd_xmlrpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ejabberd-modules/!svn/ver/919/jorge/trunk/class.ejabberd_xmlrpc.php
+END
+help.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ejabberd-modules/!svn/ver/919/jorge/trunk/help.php
+END
+class.db.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/1019/jorge/trunk/class.db.php
+END
+func.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ejabberd-modules/!svn/ver/987/jorge/trunk/func.php
+END
+stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ejabberd-modules/!svn/ver/933/jorge/trunk/stats.php
+END
+calendar_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ejabberd-modules/!svn/ver/919/jorge/trunk/calendar_view.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ejabberd-modules/!svn/ver/933/jorge/trunk/index.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ejabberd-modules/!svn/ver/1056/jorge/trunk/README
+END
+simpletree.css
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ejabberd-modules/!svn/ver/587/jorge/trunk/simpletree.css
+END
+class.sessions.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ejabberd-modules/!svn/ver/919/jorge/trunk/class.sessions.php
+END
+headers.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ejabberd-modules/!svn/ver/1014/jorge/trunk/headers.php
+END
+chat_map.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ejabberd-modules/!svn/ver/919/jorge/trunk/chat_map.php
+END
+logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/937/jorge/trunk/logger.php
+END
+jquery.autocomplete.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ejabberd-modules/!svn/ver/774/jorge/trunk/jquery.autocomplete.css
+END
+trash.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/1016/jorge/trunk/trash.php
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/955/jorge/trunk/export.php
+END
+class.roster.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ejabberd-modules/!svn/ver/919/jorge/trunk/class.roster.php
+END
+class.helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ejabberd-modules/!svn/ver/919/jorge/trunk/class.helper.php
+END
+upper.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ejabberd-modules/!svn/ver/899/jorge/trunk/upper.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/957/jorge/trunk/footer.php
+END

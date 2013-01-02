@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ejabberd-modules/!svn/ver/412/pgsql/tags/jungerl-20070310/src
+END
+pgsql_util.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ejabberd-modules/!svn/ver/412/pgsql/tags/jungerl-20070310/src/pgsql_util.erl
+END
+pgsql.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/412/pgsql/tags/jungerl-20070310/src/pgsql.erl
+END
+pgsql_proto.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ejabberd-modules/!svn/ver/412/pgsql/tags/jungerl-20070310/src/pgsql_proto.erl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ejabberd-modules/!svn/ver/89/pgsql/tags/jungerl-20070310/src/Makefile
+END
+pgsql_tcp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ejabberd-modules/!svn/ver/412/pgsql/tags/jungerl-20070310/src/pgsql_tcp.erl
+END

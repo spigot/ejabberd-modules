@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ejabberd-modules/!svn/ver/4/http_bind/trunk/conf
+END
+ejabberd.cfg.example
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ejabberd-modules/!svn/ver/4/http_bind/trunk/conf/ejabberd.cfg.example
+END

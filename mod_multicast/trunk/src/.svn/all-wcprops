@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ejabberd-modules/!svn/ver/952/mod_multicast/trunk/src
+END
+ejabberd.app
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ejabberd-modules/!svn/ver/268/mod_multicast/trunk/src/ejabberd.app
+END
+mod_muc_room.erl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/412/mod_multicast/trunk/src/mod_muc_room.erl
+END
+ejabberd_router_multicast.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ejabberd-modules/!svn/ver/440/mod_multicast/trunk/src/ejabberd_router_multicast.erl
+END
+mod_multicast.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/440/mod_multicast/trunk/src/mod_multicast.erl
+END
+ejabberd_c2s.erl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/952/mod_multicast/trunk/src/ejabberd_c2s.erl
+END
+ejabberd_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/440/mod_multicast/trunk/src/ejabberd_sup.erl
+END

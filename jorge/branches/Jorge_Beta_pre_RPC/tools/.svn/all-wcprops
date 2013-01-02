@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ejabberd-modules/!svn/ver/585/jorge/branches/Jorge_Beta_pre_RPC/tools
+END
+optimize_tables.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ejabberd-modules/!svn/ver/585/jorge/branches/Jorge_Beta_pre_RPC/tools/optimize_tables.php
+END
+gen_stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ejabberd-modules/!svn/ver/585/jorge/branches/Jorge_Beta_pre_RPC/tools/gen_stats.php
+END
+trash_cleanup.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ejabberd-modules/!svn/ver/585/jorge/branches/Jorge_Beta_pre_RPC/tools/trash_cleanup.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/412/http_bind/tags/rel-1.2
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ejabberd-modules/!svn/ver/128/http_bind/tags/rel-1.2/build.bat
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ejabberd-modules/!svn/ver/129/http_bind/tags/rel-1.2/build.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ejabberd-modules/!svn/ver/128/http_bind/tags/rel-1.2/README.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ejabberd-modules/!svn/ver/128/http_bind/tags/rel-1.2/LICENSE.txt
+END
+Emakefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ejabberd-modules/!svn/ver/157/http_bind/tags/rel-1.2/Emakefile
+END

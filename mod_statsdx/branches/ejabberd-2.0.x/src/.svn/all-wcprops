@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/1034/mod_statsdx/branches/ejabberd-2.0.x/src
+END
+mod_stats2file.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ejabberd-modules/!svn/ver/747/mod_statsdx/branches/ejabberd-2.0.x/src/mod_stats2file.erl
+END
+mod_statsdx.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ejabberd-modules/!svn/ver/1034/mod_statsdx/branches/ejabberd-2.0.x/src/mod_statsdx.erl
+END

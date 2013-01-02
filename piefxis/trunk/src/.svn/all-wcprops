@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ejabberd-modules/!svn/ver/1005/piefxis/trunk/src
+END
+ejabberd_piefxis.erl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ejabberd-modules/!svn/ver/1005/piefxis/trunk/src/ejabberd_piefxis.erl
+END
+mod_piefxis.erl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ejabberd-modules/!svn/ver/1000/piefxis/trunk/src/mod_piefxis.erl
+END

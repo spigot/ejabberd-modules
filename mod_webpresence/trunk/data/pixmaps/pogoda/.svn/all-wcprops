@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/341/mod_webpresence/trunk/data/pixmaps/pogoda
+END
+dnd.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ejabberd-modules/!svn/ver/341/mod_webpresence/trunk/data/pixmaps/pogoda/dnd.gif
+END
+xa.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/341/mod_webpresence/trunk/data/pixmaps/pogoda/xa.gif
+END
+chat.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/341/mod_webpresence/trunk/data/pixmaps/pogoda/chat.gif
+END
+available.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ejabberd-modules/!svn/ver/341/mod_webpresence/trunk/data/pixmaps/pogoda/available.gif
+END
+away.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/341/mod_webpresence/trunk/data/pixmaps/pogoda/away.gif
+END
+unavailable.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ejabberd-modules/!svn/ver/341/mod_webpresence/trunk/data/pixmaps/pogoda/unavailable.gif
+END

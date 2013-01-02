@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/1034/mod_register_web/branches/ejabberd-2.0.x
+END
+Emakefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/865/mod_register_web/branches/ejabberd-2.0.x/Emakefile
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/864/mod_register_web/branches/ejabberd-2.0.x/build.bat
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/911/mod_register_web/branches/ejabberd-2.0.x/ChangeLog
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ejabberd-modules/!svn/ver/864/mod_register_web/branches/ejabberd-2.0.x/build.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ejabberd-modules/!svn/ver/865/mod_register_web/branches/ejabberd-2.0.x/README.txt
+END

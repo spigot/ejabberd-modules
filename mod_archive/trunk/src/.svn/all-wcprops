@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/1057/mod_archive/trunk/src
+END
+pg_mod_archive.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/412/mod_archive/trunk/src/pg_mod_archive.sql
+END
+mod_archive_odbc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ejabberd-modules/!svn/ver/858/mod_archive/trunk/src/mod_archive_odbc.erl
+END
+mod_archive_odbc_sqlite3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/464/mod_archive/trunk/src/mod_archive_odbc_sqlite3.sql
+END
+mod_archive_webview.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ejabberd-modules/!svn/ver/1034/mod_archive/trunk/src/mod_archive_webview.erl
+END
+mod_archive_odbc_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/541/mod_archive/trunk/src/mod_archive_odbc_mysql.sql
+END
+mod_archive_odbc_pgsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/464/mod_archive/trunk/src/mod_archive_odbc_pgsql.sql
+END
+mod_archive_sql.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/858/mod_archive/trunk/src/mod_archive_sql.erl
+END
+mod_archive.erl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ejabberd-modules/!svn/ver/858/mod_archive/trunk/src/mod_archive.erl
+END

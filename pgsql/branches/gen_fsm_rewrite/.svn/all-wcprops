@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ejabberd-modules/!svn/ver/857/pgsql/branches/gen_fsm_rewrite
+END
+Readme
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ejabberd-modules/!svn/ver/853/pgsql/branches/gen_fsm_rewrite/Readme
+END
+Emakefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/552/pgsql/branches/gen_fsm_rewrite/Emakefile
+END

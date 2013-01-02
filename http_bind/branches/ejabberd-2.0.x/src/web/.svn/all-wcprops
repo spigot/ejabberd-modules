@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ejabberd-modules/!svn/ver/1034/http_bind/branches/ejabberd-2.0.x/src/web
+END
+ejabberd_http_bind.erl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ejabberd-modules/!svn/ver/1034/http_bind/branches/ejabberd-2.0.x/src/web/ejabberd_http_bind.erl
+END
+mod_http_bind.erl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ejabberd-modules/!svn/ver/1034/http_bind/branches/ejabberd-2.0.x/src/web/mod_http_bind.erl
+END

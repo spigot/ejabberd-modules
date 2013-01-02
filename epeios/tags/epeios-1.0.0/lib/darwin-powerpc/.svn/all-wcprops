@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/lib/darwin-powerpc
+END
+iconv_erl.so
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/lib/darwin-powerpc/iconv_erl.so
+END
+expat_erl.so
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/lib/darwin-powerpc/expat_erl.so
+END
+stringprep_drv.so
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/lib/darwin-powerpc/stringprep_drv.so
+END

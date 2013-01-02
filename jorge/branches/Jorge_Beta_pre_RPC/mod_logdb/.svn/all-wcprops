@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ejabberd-modules/!svn/ver/585/jorge/branches/Jorge_Beta_pre_RPC/mod_logdb
+END
+patch-src-mod_logdb_svn_untested
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ejabberd-modules/!svn/ver/585/jorge/branches/Jorge_Beta_pre_RPC/mod_logdb/patch-src-mod_logdb_svn_untested
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ejabberd-modules/!svn/ver/585/jorge/branches/Jorge_Beta_pre_RPC/mod_logdb/readme.txt
+END
+update3.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ejabberd-modules/!svn/ver/585/jorge/branches/Jorge_Beta_pre_RPC/mod_logdb/update3.py
+END
+update3.readme
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ejabberd-modules/!svn/ver/585/jorge/branches/Jorge_Beta_pre_RPC/mod_logdb/update3.readme
+END
+userflags.diff
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ejabberd-modules/!svn/ver/585/jorge/branches/Jorge_Beta_pre_RPC/mod_logdb/userflags.diff
+END

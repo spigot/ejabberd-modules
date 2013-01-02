@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ejabberd-modules/!svn/ver/619/mod_ctlextra/branches/ejabberd-1.1.x
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ejabberd-modules/!svn/ver/618/mod_ctlextra/branches/ejabberd-1.1.x/README.txt
+END
+Emakefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ejabberd-modules/!svn/ver/619/mod_ctlextra/branches/ejabberd-1.1.x/Emakefile
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ejabberd-modules/!svn/ver/618/mod_ctlextra/branches/ejabberd-1.1.x/build.bat
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ejabberd-modules/!svn/ver/618/mod_ctlextra/branches/ejabberd-1.1.x/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ejabberd-modules/!svn/ver/618/mod_ctlextra/branches/ejabberd-1.1.x/COPYING
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ejabberd-modules/!svn/ver/619/mod_ctlextra/branches/ejabberd-1.1.x/build.sh
+END

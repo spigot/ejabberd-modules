@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ejabberd-modules/!svn/ver/936/jorge/trunk/mod_logdb
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ejabberd-modules/!svn/ver/918/jorge/trunk/mod_logdb/readme.txt
+END
+patch-src-mod_logdb-2.0.3.diff
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ejabberd-modules/!svn/ver/918/jorge/trunk/mod_logdb/patch-src-mod_logdb-2.0.3.diff
+END
+patch-src-mod_logdb-disable_ejabberd_ctl.diff
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ejabberd-modules/!svn/ver/935/jorge/trunk/mod_logdb/patch-src-mod_logdb-disable_ejabberd_ctl.diff
+END
+erlang-mysql_userflag.diff
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/936/jorge/trunk/mod_logdb/erlang-mysql_userflag.diff
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ejabberd-modules/!svn/ver/857/pgsql/branches/gen_fsm_rewrite/src
+END
+pgsql2_proto_msgs.erl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ejabberd-modules/!svn/ver/857/pgsql/branches/gen_fsm_rewrite/src/pgsql2_proto_msgs.erl
+END
+pgsql2.erl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ejabberd-modules/!svn/ver/857/pgsql/branches/gen_fsm_rewrite/src/pgsql2.erl
+END
+pgsql2_packet_parser.erl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ejabberd-modules/!svn/ver/857/pgsql/branches/gen_fsm_rewrite/src/pgsql2_packet_parser.erl
+END
+pgsql2_proto.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ejabberd-modules/!svn/ver/857/pgsql/branches/gen_fsm_rewrite/src/pgsql2_proto.erl
+END
+pgsql2_types.erl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ejabberd-modules/!svn/ver/729/pgsql/branches/gen_fsm_rewrite/src/pgsql2_types.erl
+END
+pgsql2_pool.erl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/643/pgsql/branches/gen_fsm_rewrite/src/pgsql2_pool.erl
+END

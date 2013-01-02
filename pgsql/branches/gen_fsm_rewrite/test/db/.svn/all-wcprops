@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ejabberd-modules/!svn/ver/517/pgsql/branches/gen_fsm_rewrite/test/db
+END
+test_data_1000_bigger.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ejabberd-modules/!svn/ver/517/pgsql/branches/gen_fsm_rewrite/test/db/test_data_1000_bigger.sql
+END
+test_data_100_bigger.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ejabberd-modules/!svn/ver/517/pgsql/branches/gen_fsm_rewrite/test/db/test_data_100_bigger.sql
+END
+test_data_100.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ejabberd-modules/!svn/ver/517/pgsql/branches/gen_fsm_rewrite/test/db/test_data_100.sql
+END
+test_data_1000.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ejabberd-modules/!svn/ver/517/pgsql/branches/gen_fsm_rewrite/test/db/test_data_1000.sql
+END
+test_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ejabberd-modules/!svn/ver/517/pgsql/branches/gen_fsm_rewrite/test/db/test_table.sql
+END

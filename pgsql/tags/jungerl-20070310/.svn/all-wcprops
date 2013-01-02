@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ejabberd-modules/!svn/ver/412/pgsql/tags/jungerl-20070310
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ejabberd-modules/!svn/ver/89/pgsql/tags/jungerl-20070310/INSTALL
+END
+EPLICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ejabberd-modules/!svn/ver/89/pgsql/tags/jungerl-20070310/EPLICENSE
+END

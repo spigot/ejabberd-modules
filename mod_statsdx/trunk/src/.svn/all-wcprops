@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/1118/mod_statsdx/trunk/src
+END
+mod_statsdx.erl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ejabberd-modules/!svn/ver/1118/mod_statsdx/trunk/src/mod_statsdx.erl
+END
+mod_stats2file.erl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/440/mod_statsdx/trunk/src/mod_stats2file.erl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/1034/atom_pubsub/trunk/src
+END
+atom_microblog.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/1034/atom_pubsub/trunk/src/atom_microblog.erl
+END
+atom_pubsub.erl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ejabberd-modules/!svn/ver/1034/atom_pubsub/trunk/src/atom_pubsub.erl
+END
+mod_couch.erl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ejabberd-modules/!svn/ver/848/atom_pubsub/trunk/src/mod_couch.erl
+END

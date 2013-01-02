@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ejabberd-modules/!svn/ver/444/pep/branches/1.1.2/src
+END
+ejabberd_sm.erl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ejabberd-modules/!svn/ver/412/pep/branches/1.1.2/src/ejabberd_sm.erl
+END
+mod_pubsub.erl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ejabberd-modules/!svn/ver/444/pep/branches/1.1.2/src/mod_pubsub.erl
+END
+jlib.erl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ejabberd-modules/!svn/ver/412/pep/branches/1.1.2/src/jlib.erl
+END
+mod_disco.erl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ejabberd-modules/!svn/ver/412/pep/branches/1.1.2/src/mod_disco.erl
+END
+ejabberd_c2s.erl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ejabberd-modules/!svn/ver/412/pep/branches/1.1.2/src/ejabberd_c2s.erl
+END
+mod_caps.erl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ejabberd-modules/!svn/ver/412/pep/branches/1.1.2/src/mod_caps.erl
+END
+ejabberd_local.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/412/pep/branches/1.1.2/src/ejabberd_local.erl
+END

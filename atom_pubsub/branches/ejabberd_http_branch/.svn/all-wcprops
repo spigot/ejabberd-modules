@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ejabberd-modules/!svn/ver/1034/atom_pubsub/branches/ejabberd_http_branch
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/657/atom_pubsub/branches/ejabberd_http_branch/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/661/atom_pubsub/branches/ejabberd_http_branch/README
+END
+atom_pubsub.erl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ejabberd-modules/!svn/ver/1034/atom_pubsub/branches/ejabberd_http_branch/atom_pubsub.erl
+END
+ejabberd_http.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ejabberd-modules/!svn/ver/701/atom_pubsub/branches/ejabberd_http_branch/ejabberd_http.hrl
+END
+ejabberd.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ejabberd-modules/!svn/ver/701/atom_pubsub/branches/ejabberd_http_branch/ejabberd.hrl
+END
+jlib.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/701/atom_pubsub/branches/ejabberd_http_branch/jlib.hrl
+END
+pubsub.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ejabberd-modules/!svn/ver/701/atom_pubsub/branches/ejabberd_http_branch/pubsub.hrl
+END

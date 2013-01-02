@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ejabberd-modules/!svn/ver/948/mod_webpresence/trunk/src/msgs
+END
+es.mod_webpresence.msg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ejabberd-modules/!svn/ver/948/mod_webpresence/trunk/src/msgs/es.mod_webpresence.msg
+END
+wa.mod_webpresence.msg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ejabberd-modules/!svn/ver/948/mod_webpresence/trunk/src/msgs/wa.mod_webpresence.msg
+END
+mod_webpresence.pot
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/948/mod_webpresence/trunk/src/msgs/mod_webpresence.pot
+END
+es.mod_webpresence.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ejabberd-modules/!svn/ver/948/mod_webpresence/trunk/src/msgs/es.mod_webpresence.po
+END
+wa.mod_webpresence.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ejabberd-modules/!svn/ver/948/mod_webpresence/trunk/src/msgs/wa.mod_webpresence.po
+END

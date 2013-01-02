@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src
+END
+ejabberd.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src/ejabberd.erl
+END
+ejabberd_router.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src/ejabberd_router.erl
+END
+ejabberd_config.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src/ejabberd_config.erl
+END
+epeios_app.erl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src/epeios_app.erl
+END
+xmpp_component.erl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src/xmpp_component.erl
+END
+epeios_services.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src/epeios_services.erl
+END
+epeios.app.src
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src/epeios.app.src
+END
+epeios_config.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src/epeios_config.erl
+END
+epeios.rel.src
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src/epeios.rel.src
+END
+epeios_sup.erl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/src/epeios_sup.erl
+END

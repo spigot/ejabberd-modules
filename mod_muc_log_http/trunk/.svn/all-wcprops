@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ejabberd-modules/!svn/ver/1053/mod_muc_log_http/trunk
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ejabberd-modules/!svn/ver/975/mod_muc_log_http/trunk/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ejabberd-modules/!svn/ver/380/mod_muc_log_http/trunk/COPYING
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ejabberd-modules/!svn/ver/104/mod_muc_log_http/trunk/build.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ejabberd-modules/!svn/ver/1053/mod_muc_log_http/trunk/README.txt
+END
+Emakefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ejabberd-modules/!svn/ver/577/mod_muc_log_http/trunk/Emakefile
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ejabberd-modules/!svn/ver/104/mod_muc_log_http/trunk/build.bat
+END

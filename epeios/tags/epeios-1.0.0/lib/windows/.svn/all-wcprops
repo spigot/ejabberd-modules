@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/lib/windows
+END
+stringprep_drv.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/lib/windows/stringprep_drv.dll
+END
+iconv_erl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/lib/windows/iconv_erl.dll
+END
+expat_erl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ejabberd-modules/!svn/ver/874/epeios/tags/epeios-1.0.0/lib/windows/expat_erl.dll
+END

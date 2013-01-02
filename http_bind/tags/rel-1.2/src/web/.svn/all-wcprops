@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ejabberd-modules/!svn/ver/412/http_bind/tags/rel-1.2/src/web
+END
+ejabberd_http_bind.erl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ejabberd-modules/!svn/ver/412/http_bind/tags/rel-1.2/src/web/ejabberd_http_bind.erl
+END
+mod_http_bind.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/412/http_bind/tags/rel-1.2/src/web/mod_http_bind.erl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ejabberd-modules/!svn/ver/157/http_bind/tags/rel-1.2/src/web/Makefile.in
+END

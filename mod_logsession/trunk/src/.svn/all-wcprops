@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ejabberd-modules/!svn/ver/1065/mod_logsession/trunk/src
+END
+failed_auth.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ejabberd-modules/!svn/ver/1065/mod_logsession/trunk/src/failed_auth.patch
+END
+mod_logsession.erl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ejabberd-modules/!svn/ver/1065/mod_logsession/trunk/src/mod_logsession.erl
+END

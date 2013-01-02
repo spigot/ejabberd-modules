@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ejabberd-modules/!svn/ver/934/epeios/trunk/lib/linux-amd64
+END
+expat_erl.so
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/934/epeios/trunk/lib/linux-amd64/expat_erl.so
+END
+stringprep_drv.so
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ejabberd-modules/!svn/ver/934/epeios/trunk/lib/linux-amd64/stringprep_drv.so
+END
+iconv_erl.so
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/934/epeios/trunk/lib/linux-amd64/iconv_erl.so
+END

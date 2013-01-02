@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ejabberd-modules/!svn/ver/1034/atom_pubsub/trunk
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ejabberd-modules/!svn/ver/848/atom_pubsub/trunk/build.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ejabberd-modules/!svn/ver/848/atom_pubsub/trunk/README
+END
+Emakefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ejabberd-modules/!svn/ver/848/atom_pubsub/trunk/Emakefile
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ejabberd-modules/!svn/ver/848/atom_pubsub/trunk/build.bat
+END

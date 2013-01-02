@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/ejabberd-modules/!svn/ver/545/bfile
+END
+._README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ejabberd-modules/!svn/ver/543/bfile/._README
+END
+vsn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/ejabberd-modules/!svn/ver/543/bfile/vsn.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ejabberd-modules/!svn/ver/543/bfile/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/ejabberd-modules/!svn/ver/543/bfile/README
+END
+._LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ejabberd-modules/!svn/ver/543/bfile/._LICENCE
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/ejabberd-modules/!svn/ver/543/bfile/LICENCE
+END

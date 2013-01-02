@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3
+END
+ejabberdController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/ejabberdController.h
+END
+ejabberd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/ejabberd.plist
+END
+MPL
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/MPL
+END
+ejabberdController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/ejabberdController.m
+END
+logo_ejabberd.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/logo_ejabberd.png
+END
+ejabberdPref.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/ejabberdPref.h
+END
+ejabberdPref.tiff
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/ejabberdPref.tiff
+END
+ejabberdPref.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/ejabberdPref.m
+END
+instance_started.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/instance_started.png
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/version.plist
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/LICENSE
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/config.txt
+END
+ejabberd_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/ejabberd_Prefix.pch
+END
+instance_stopped.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/instance_stopped.png
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ejabberd-modules/!svn/ver/861/ejabberdPrefs/tags/ejabberd-2.0.3/Info.plist
+END

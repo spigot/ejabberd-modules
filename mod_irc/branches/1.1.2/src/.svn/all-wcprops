@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ejabberd-modules/!svn/ver/412/mod_irc/branches/1.1.2/src
+END
+mod_irc_connection.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ejabberd-modules/!svn/ver/412/mod_irc/branches/1.1.2/src/mod_irc_connection.erl
+END
+mod_irc.erl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ejabberd-modules/!svn/ver/412/mod_irc/branches/1.1.2/src/mod_irc.erl
+END
+iconv.erl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ejabberd-modules/!svn/ver/412/mod_irc/branches/1.1.2/src/iconv.erl
+END
+iconv_erl.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ejabberd-modules/!svn/ver/412/mod_irc/branches/1.1.2/src/iconv_erl.c
+END

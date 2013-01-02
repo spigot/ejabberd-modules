@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ejabberd-modules/!svn/ver/934/epeios/trunk/modules
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ejabberd-modules/!svn/ver/34/epeios/trunk/modules/README.txt
+END
+ejabberd.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ejabberd-modules/!svn/ver/412/epeios/trunk/modules/ejabberd.hrl
+END
+mod_muc_room.beam
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ejabberd-modules/!svn/ver/876/epeios/trunk/modules/mod_muc_room.beam
+END
+mod_pubsub.beam
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ejabberd-modules/!svn/ver/37/epeios/trunk/modules/mod_pubsub.beam
+END
+ejabberd_hooks.beam
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ejabberd-modules/!svn/ver/934/epeios/trunk/modules/ejabberd_hooks.beam
+END
+jlib.hrl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ejabberd-modules/!svn/ver/412/epeios/trunk/modules/jlib.hrl
+END
+shaper.beam
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ejabberd-modules/!svn/ver/934/epeios/trunk/modules/shaper.beam
+END
+mod_muc.beam
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ejabberd-modules/!svn/ver/876/epeios/trunk/modules/mod_muc.beam
+END
+mod_muc_log.beam
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ejabberd-modules/!svn/ver/934/epeios/trunk/modules/mod_muc_log.beam
+END
