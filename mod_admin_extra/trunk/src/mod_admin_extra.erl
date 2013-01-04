@@ -1292,12 +1292,14 @@ srg_create(Group, Host, Name, Description, Display) ->
 	    {displayed_groups, DisplayList},
 	    {description, Description}],
     {ok, M} = loaded_module(Host,[mod_shared_roster_odbc,mod_shared_roster]),
-    {atomic, ok} = M:create_group(Host, Group, Opts),
+    {atomic, _} = M:create_group(Host, Group, Opts),
+    %% Response should be the atom ok or {update,1} depending on the roster mod
     ok.
 
 srg_delete(Group, Host) ->
     {ok, M} = loaded_module(Host,[mod_shared_roster_odbc,mod_shared_roster]),
-    {atomic, ok} = M:delete_group(Host, Group),
+    {atomic, _} = M:delete_group(Host, Group),
+    %% Response should be the atom ok or {update,1} depending on the roster mod
     ok.
 
 srg_list(Host) ->
